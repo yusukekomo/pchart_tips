@@ -1,8 +1,12 @@
-README test
+README
 
-README file を置いてみます
+1.	about this repo
 
-About
+	pchart tips (
+	
+2.	contents
 
-このリポジトリはpChart関連のファイルを置きます。
-
+	(1)	pchart cheat sheet 
+		pchart_cheat_sheet.xls	
+			in japanese.
+			
